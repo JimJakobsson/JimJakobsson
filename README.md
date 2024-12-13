@@ -3,6 +3,8 @@ I'm Jim, and I am a final-year computer science and engineering student. My mast
 
 Currently, I am conducting my master's thesis in Data Science at Karolinska Institutet, focusing on analyzing medical cohort data to uncover insights into the leading causes of mortality among participants. The project involves and end-to-end machiene learning lifecylce to tune a model for binary mortality classification, and finding the most significant feature behind mortality using SHAP. 
 
+Feel free to check out more about my work on my website at KI: https://ki.se/en/people/jim-jakobsson
+
 <!--
 **JimJakobsson/JimJakobsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
