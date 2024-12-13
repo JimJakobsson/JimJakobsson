@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hej!
+I'm Jim, and I am a final-year computer science and engineering student. My master and specialisation is in machine learning and I enjoy projects where I can leverage my skills for meaningful purposes. 
+
+Currently, I am conducting my master's thesis in Data Science at Karolinska Institutet, focusing on analyzing medical cohort data to uncover insights into the leading causes of mortality among participants. The project involves and end-to-end machiene learning lifecylce to tune a model for binary mortality classification, and finding the most significant feature behind mortality using SHAP. 
 
 <!--
 **JimJakobsson/JimJakobsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
